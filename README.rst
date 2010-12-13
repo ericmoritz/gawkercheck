@@ -16,3 +16,5 @@ Test against your gmail contacts (Exported using the "Google CSV" format)::
      cat google.csv | ./extract_gmail_addresses.py | ./locate.py
 
 Now email your friends to let them know they're up shit's creek.
+
+Source Data: http://www.google.com/fusiontables/DataSource?dsrcid=350662
